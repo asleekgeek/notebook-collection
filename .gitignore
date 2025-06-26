@@ -27,4 +27,14 @@ npm-debug.log*
 test-output/
 # Ignore cache directories
 .cache/
- .DS_Store
+*.DS_Store
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+.env/
+
