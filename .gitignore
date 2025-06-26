@@ -16,7 +16,7 @@ tmp/
 .vscode/
 # Ignore operating system files
 Thumbs.db
-.DS_Store
+ .DS_Store
 # Ignore package lock files
 package-lock.json
 # Ignore yarn lock files
@@ -27,5 +27,4 @@ npm-debug.log*
 test-output/
 # Ignore cache directories
 .cache/
- 
- 
+ .DS_Store
